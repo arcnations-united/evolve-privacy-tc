@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "date": "2026-10-19",
+  "date_display": "19 October 2026",
+  "sha256": "f0fdde52e964fa17f82a7b3847d229c2043355c4f6e8b83e5076e0ce21056fcc",
+  "paragraphs": [
+    "Terms and Conditions for {app}",
+    "1. Agreement. By logging in to {app}, you agree to these Terms and acknowledge the Privacy Policy. If you do not agree, do not use {app}.",
+    "2. What {app} is. {app} is a GTK theme manager. Access to it is a perk of an active Patreon membership and is not available otherwise.",
+    "3. Membership. Access lasts only while your pledge is active, and ends when the pledge lapses or is cancelled.",
+    "4. Devices and sharing. Each membership may be used on a limited number of devices at once. Your membership, login session and copies of {app} are for you alone. Sharing them, or using one membership on more devices than allowed, is not permitted, and the sessions concerned may be ended without notice.",
+    "5. Licence. You are given a personal, non-transferable licence to use {app} while your membership is active. You may not resell, redistribute, or publish {app} or its premium content, or attempt to bypass its membership checks.",
+    "6. Third-party components. {app} uses third-party packages and services, which remain subject to their own licences and terms.",
+    "7. Payments. All payments, billing and refunds are handled by Patreon and governed by Patreon's terms. {app} has no control over them.",
+    "8. Changes to {app}. {app} may be updated, changed, suspended or discontinued at any time. Features may be added or removed.",
+    "9. No warranty. {app} is provided as it is, without warranty of any kind. It changes the appearance of your system, so back up your settings before use. You use it at your own risk.",
+    "10. Limit of liability. To the extent the law allows, the maker is not liable for any loss or damage arising from the use of, or inability to use, {app}.",
+    "11. Ending access. Access may be ended if these Terms are broken, in particular by sharing a membership or circumventing its checks.",
+    "12. Changes to these Terms. These Terms may be updated from time to time. The current version is always published at {policy_url} with its version number and date. If a change materially affects you, you will be notified through Patreon or {app}.",
+    "13. Governing law. These Terms are governed by the laws of India, and any dispute is to be resolved at the Kolkata High Court, West Bengal, India.",
+    "14. Contact. For any question about these Terms, use the contact form at {contact_url}."
+  ]
+}
