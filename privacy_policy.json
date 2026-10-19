@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "date": "2026-10-19",
+  "date_display": "19 October 2026",
+  "sha256": "2c6e98d6218f950f697b5ef2f647669d62900072ae333c93151fd6555627ab9b",
+  "paragraphs": [
+    "1. About this policy",
+    "{app} is available only to active Patreon members. This policy explains what {app} collects when you log in, why, and what you can ask of its maker. For any privacy matter, use the contact form at https://arcnations.wixsite.com/nex-apps/contact",
+    "2. What is collected",
+    "When you log in through Patreon, {app} receives and stores:",
+    "Your Patreon user ID and name, your membership tier and whether your pledge is active, Patreon access tokens, used to confirm that your pledge remains active, an identifier for each device you log in on, to limit the number of devices per membership. Your email address is not requested or stored. Nothing is read from Patreon beyond your identity and your membership of this campaign.",
+    "3. What is not collected",
+    "{app} does not collect analytics, usage statistics or information about anything else inclusive of the themes you browse or apply on your computer and more. Third party packages may collect data based according to their Privacy Policy.",
+    "4. Why it is collected",
+    "Only to confirm that you are an active member, to give you access to {app}, and to limit how many devices can use one membership.",
+    "5. Where it is stored",
+    "Your data is held with Supabase, the database and hosting provider, and Patreon provides the login. Your data from {app} is stored on servers in Mumbai, India, so if you live elsewhere it is transferred internationally. Supabase may also keep standard technical logs, such as IP addresses, as part of running its service; see Supabase’s Terms of Service (https://supabase.com/terms) and Privacy Policy at https://supabase.com/privacy for details. Messages sent through the contact form mentioned are handled by Wix. Check their Terms of Service and Privacy Policy at their respective sites. https://www.wix.com/about/terms-of-use and https://www.wix.com/about/privacy",
+    "6. Sharing",
+    "Your data is never sold, never shared with advertisers and never used for analytics. It is shared only with the providers named above, as needed to run the service, or where the law requires it.",
+    "7. How long it is kept",
+    "Your data is kept for as long as your membership is active. Deletion is currently done by hand, so data may remain after a membership ends. You may ask for it to be deleted at any time through messaging on Patreon to https://patreon.com/arcnations",
+    "The account where you text from will be deleted from the database. Trying to log back in again puts the data back in server.",
+    "Requests are processed within 30 days.",
+    "8. Your rights",
+    "You may ask to see what is held about you, and have it deleted. Send your request directly through Patreon chat to https://patreon.com/arcnations and you will receive a reply within 30 days. Only the account you send message from will be considered.",
+    "9. Changes",
+    "When this policy changes, the new version is published at https://github.com/arcnations-united/evolve-privacy-tc with a new version number and date, and you will be asked to accept it again at your next login."
+  ]
+}
