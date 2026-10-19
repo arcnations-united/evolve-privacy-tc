@@ -1,8 +1,8 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "date": "2026-10-19",
   "date_display": "19 October 2026",
-  "sha256": "2c6e98d6218f950f697b5ef2f647669d62900072ae333c93151fd6555627ab9b",
+  "sha256": "db536529d4e765cdf298fc630f034c90826113484daea456fed6e092ee18703a",
   "paragraphs": [
     "1. About this policy",
     "{app} is available only to active Patreon members. This policy explains what {app} collects when you log in, why, and what you can ask of its maker. For any privacy matter, use the contact form at https://arcnations.wixsite.com/nex-apps/contact",
@@ -14,7 +14,7 @@
     "4. Why it is collected",
     "Only to confirm that you are an active member, to give you access to {app}, and to limit how many devices can use one membership.",
     "5. Where it is stored",
-    "Your data is held with Supabase, the database and hosting provider, and Patreon provides the login. Your data from {app} is stored on servers in Mumbai, India, so if you live elsewhere it is transferred internationally. Supabase may also keep standard technical logs, such as IP addresses, as part of running its service; see Supabase’s Terms of Service (https://supabase.com/terms) and Privacy Policy at https://supabase.com/privacy for details. Messages sent through the contact form mentioned are handled by Wix. Check their Terms of Service and Privacy Policy at their respective sites. https://www.wix.com/about/terms-of-use and https://www.wix.com/about/privacy",
+    "5. Where it is stored. Your data is held with Supabase, the database and hosting provider, and Patreon provides the login. Your data from {app} is stored on servers in Mumbai, India, so if you live elsewhere it is transferred internationally. Supabase may also keep standard technical logs, such as IP addresses, as part of running its service; see Supabase's Terms of Service at https://supabase.com/terms and Privacy Policy at https://supabase.com/privacy. Messages sent through the contact form are handled by Wix; see its Terms of Use at https://www.wix.com/about/terms-of-use and Privacy Policy at https://www.wix.com/about/privacy.",
     "6. Sharing",
     "Your data is never sold, never shared with advertisers and never used for analytics. It is shared only with the providers named above, as needed to run the service, or where the law requires it.",
     "7. How long it is kept",
